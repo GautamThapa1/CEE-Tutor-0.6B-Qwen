@@ -1,4 +1,4 @@
-# CEE Exam Question Generator — Fine-Tuned Qwen3-0.6B
+# CEE Exam Tutor — Fine-Tuned Qwen3-0.6B
 LoRA fine-tuned Qwen3-0.6B for Nepal's CEE entrance exam prep — generates exam questions, answers, and explanations for a given subject and topic (Physics, Chemistry, Biology).
 
 🤗 **[Model](https://huggingface.co/Celestial01/qwen3-0.6b-cee-tutor-merged)**
